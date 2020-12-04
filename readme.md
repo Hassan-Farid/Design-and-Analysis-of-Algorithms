@@ -15,3 +15,5 @@ For those who need to know the resources that I used to learn these concepts:
 * Stackoverflow (Obviosuly)
 * Brilliant.org
 * Algorithm Design by Jon Kleinberg and Éva Tardos
+
+To view the Repo with HTML Rendering and Latex: [click here](https://nbviewer.jupyter.org/github/Hassan-Farid/Design-and-Analysis-of-Algorithms/tree/master/)
